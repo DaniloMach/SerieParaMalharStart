@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\bin\Debug\SerieParaMalharStart.Alongamento.exe.config
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\bin\Debug\SerieParaMalharStart.Alongamento.exe
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\bin\Debug\SerieParaMalharStart.Alongamento.pdb
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\obj\Debug\SerieParaMalharStart.Alongamento.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\obj\Debug\SerieParaMalharStart.Alongamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\obj\Debug\SerieParaMalharStart.Alongamento.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\obj\Debug\SerieParaMalharStart.Alongamento.exe
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\obj\Debug\SerieParaMalharStart.Alongamento.pdb
