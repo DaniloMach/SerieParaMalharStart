@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStar.VoeAilines\obj\Debug\SerieParaMalharStar.VoeAirlines.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStar.VoeAilines\obj\Debug\SerieParaMalharStar.VoeAirlines.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStar.VoeAilines\obj\Debug\SerieParaMalharStar.VoeAirlines.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStar.VoeAilines\obj\Debug\SerieParaMalharStar.VoeAilines.exe
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStar.VoeAilines\obj\Debug\SerieParaMalharStar.VoeAilines.pdb

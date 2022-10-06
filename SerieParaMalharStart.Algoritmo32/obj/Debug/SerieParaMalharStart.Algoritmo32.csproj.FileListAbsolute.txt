@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo32\obj\Debug\SerieParaMalharStart.Algoritmo32.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo32\obj\Debug\SerieParaMalharStart.Algoritmo32.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo32\obj\Debug\SerieParaMalharStart.Algoritmo32.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo32\bin\Debug\SerieParaMalharStart.Algoritmo32.exe.config
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo32\bin\Debug\SerieParaMalharStart.Algoritmo32.exe
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo32\bin\Debug\SerieParaMalharStart.Algoritmo32.pdb
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo32\obj\Debug\SerieParaMalharStart.Algoritmo32.exe
+C:\Users\User\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo32\obj\Debug\SerieParaMalharStart.Algoritmo32.pdb

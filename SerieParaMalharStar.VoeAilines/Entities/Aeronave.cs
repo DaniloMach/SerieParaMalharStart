@@ -21,7 +21,7 @@ namespace SerieParaMalharStar.VoeAilines.Entities
         public double VelocidadeCruzeiro;
         public double AltitudeCruzeiro;
         public string Codigo;
-        public Celebridade celebridade;
+        public Celebridade Celebridades;
 
 
 
